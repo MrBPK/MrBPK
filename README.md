@@ -1,4 +1,4 @@
-# Praveen Kumar (@MisterBPK) 👨💻
+# Praveen Kumar (@MrBPK) 👨💻
 
 ### **Android & Multiplatform Developer** | Building Native Experiences 🚀
 
@@ -8,7 +8,7 @@
 - 💌 Reach me: [![Email](https://img.shields.io/badge/Email-admin%40xpertxyz.in-blue?style=flat&logo=gmail)](mailto:admin@xpertxyz.in)
 - 🌐 Passionate about cutting-edge mobile technologies
 - 🛠️ Specializing in Android & cross-platform solutions
-- 📱 50K+ Play Store downloads with [TrendScan](#projects)
+- 📱 50K+ Play Store downloads with [TrendScan](https://play.google.com/store/apps/details?id=in.xpertxyz.scan)
 
 ---
 
